@@ -1,5 +1,7 @@
 import { createApp } from 'vue'
 
+// import "@picocss/pico/css/pico.fluid.classless.min.css"
+
 const App = {
   template: `
 <div>
