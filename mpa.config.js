@@ -17,7 +17,7 @@ module.exports = {
     // entry: './__demo/*.js',
 
     // entry: './_copy/*.js',
-    // entry: './_layout/*.js',
+    entry: './_layout/*.js',
 
-    entry: './_gesture/*.js',
+    // entry: './_gesture/*.js',
 }
